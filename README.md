@@ -22,8 +22,8 @@ This project demonstrates fundamental to advanced SQL operations using a simulat
 ## 🛠 Technologies
 
 - SQL (MySQL syntax)
+- MySQL workbench 8.0 CE
 - Relational Database concepts
-- Subqueries, Joins, Aggregation functions
 
 ---
 
