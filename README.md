@@ -59,3 +59,7 @@ This project demonstrates fundamental to advanced SQL operations using a simulat
 
 ## 📂 Folder Structure
 
+Organizational-Insights-with-SQL/
+├── Organizational-Insights-with-SQL
+└── README.md
+
